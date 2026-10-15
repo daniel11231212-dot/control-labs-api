@@ -14,7 +14,12 @@
     "express": "^5.2.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.14"
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.5",
+    "nodemon": "^3.1.14",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^7.0.2"
   },
   "keywords": [],
   "author": "",
